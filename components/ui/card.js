@@ -1,1 +1,0 @@
-export const Card = ({ children }) => <div className='p-4 rounded shadow bg-white'>{children}</div>;
